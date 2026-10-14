@@ -6,10 +6,6 @@
       "platform": "ios"
     },
     {
-      "url": "https://playvapor.app/apps.json",
-      "platform": "tvos"
-    },
-    {
       "url": "https://stikdebug.xyz/index.json",
       "platform": "ios"
     },
